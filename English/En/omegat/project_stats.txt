@@ -1,0 +1,14 @@
+09/02/2025 09:59
+Estatística do projeto
+
+                           	Segmentos	Palavras	Caracteres (sem espaços)	Caracteres (com espaços)	#Arquivos	
+Total de palavras:         	       51	    1210	                    6481	                    7611	        1	
+Restantes:                 	        1	       8	                      46	                      47	        1	
+Únicos:                    	       51	    1210	                    6481	                    7611	        1	
+Segmentos únicos restantes:	        1	       8	                      46	                      47	        1	
+
+
+Estatísticas do arquivo individual:
+
+Nome do arquivo	Total de segmentos 	Segmentos restantes	Segmentos únicos	Segmentos únicos restantes	Total de palavras	Palavras a traduzir	Palavras únicas	Palavras únicas restantes	Total de caracteres (sem espaços)	Caracteres restantes (sem espaços)	Caracteres únicos (sem espaços)	Caracteres únicos restantes (sem espaços)	Total de caracteres (incluindo espaços)	Caracteres restantes (com espaços)	Caracteres únicos (com espaços)	Caracteres únicos restantes (com espaços)	
+00.odt         	                 51	                  1	              51	                         1	             1210	                  8	           1210	                        8	                             6481	                                46	                           6481	                                       46	                                   7611	                                47	                           7611	                                       47	

@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>(OpenAI is being sued for &lt;/f3&gt;&lt;a4&gt;&lt;f5&gt;intellectual property infringements&lt;/f5&gt;&lt;/a4&gt;&lt;f6&gt; by news organizations).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250209T114242Z" creationid="rip" creationdate="20250209T114242Z">
+        <seg>(A OpenAI está sendo processa por infringir propriedades intelectuais por novas organizações).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;By &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;Gemma Conroy&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt; &amp; &lt;/f3&gt;&lt;a4&gt;&lt;f5&gt;Smriti Mallapaty&lt;/f5&gt;&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T160126Z" creationid="rip" creationdate="20250202T160126Z">
+        <seg>Por Gemma Conroy &amp; Smriti Mallapaty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Chinese technology &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;start-up DeepSeek&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;has taken the tech world by storm with the release of two large language models (LLMs) that rival the performance of the dominant tools developed by US tech giants — but built with a fraction of the cost and computing power.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T161320Z" creationid="rip" creationdate="20250202T161320Z">
+        <seg>A tecnologia chinesa da startup DeepSeek tem deixado o mundo tech em maus lençois com o lançamento de dois grandes modelos de linguagem (LLMs) que rivalizam com dominantes ferramentes desenvolvidas por grandes empresas de tecnologias americanas, mas criadas com uma fração de custo e poder computacional. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;DeepSeek has said that it used around 2,000 H800 chips built by US chip-maker Nvidia to train DeepSeek-V3, a model it released in December&lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;1&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt; that outperforms OpenAI’s LLM GPT-4o, launched in May last year, on benchmark tests.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250208T181305Z" creationid="rip" creationdate="20250208T181305Z">
+        <seg>aproximadamente 2 mil chips H800, construídos pela Nvidia para o treinamento DeepSeek-V3, um modelo lançado em Dezembro que superou a OpenAI's LLM GPT-4o,  anunciado em Maio do último ano, em testes de refência. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Developing a pipeline of &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;‘AI talent’ became a priority&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T164847Z" creationid="rip" creationdate="20250202T164847Z">
+        <seg>Desenvolvimento de prompt de "talento IA" se tornaram uma prioridade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;If DeepSeek-R1’s performance surprised many people outside of China, researchers inside the country say the &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;start-up’s success&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt; is to be expected and fits with the government’s ambition to be a global leader in artificial intelligence (AI).&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T162434Z" creationid="rip" creationdate="20250202T162434Z">
+        <seg>Se a performance surpreendeu muitas pessoas fora da China, pesquisadores do país dissertam que o sucesso da startup já era esperado e combina com as ambições governamentais ao se tornarem lideres em Inteligência Artificial (IA) no mundo tudo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;In 2017, the Chinese government announced its intention for the country to become &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;the world leader in AI by 2030&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T164136Z" creationid="rip" creationdate="20250202T164050Z">
+        <seg>Em 2017, o governo chines anúnciou suas intenções para o país, ao se tornarem lideres mundiais em IA em 2030.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;On 20 January, the Hangzhou-based company released DeepSeek-R1, a partly open-source ‘reasoning’ model that can solve some scientific problems at a similar standard to &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;o1, OpenAI's most advanced LLM&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;, which the company, based in San Francisco, California, unveiled late last year.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T161859Z" creationid="rip" creationdate="20250202T161859Z">
+        <seg>Em 20 de Janeiro a companhia cedia na cidade de Hangzhou lançou o DeepSeek-R1, um modelo parcialmente "racional" que consegue resolver problemas científicos de maneira similar ao o1, OpenAI's mais avançado LLM, qual a companhia, cediada em São francisco, California, revelou no último ano. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;This week, &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;media reports&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt; suggested that OpenAI was reviewing claims that DeepSeek trained its model using outputs from OpenAI models.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250209T114101Z" creationid="rip" creationdate="20250209T114101Z">
+        <seg>Nesta semana, as mídias repotaram as sugestões que a OpenAI estava revendo afimações de que a DeepSeek treinou seus modelos usando outputs vindos dos modelos da OpenAI </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And earlier this week, DeepSeek launched another model, called Janus-Pro-7B, which can generate images from text prompts much like OpenAI’s DALL-E 3 and Stable Diffusion, made by Stability AI in London.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T162222Z" creationid="rip" creationdate="20250202T162222Z">
+        <seg>E no inicio desta semana, a DeepSeek lançou outro modelo, chamado Janus-Pro-7B, qual consegue gerar imagens a partir de textos de prompt muito semelhante ao OpenAI's DALL-E 3 e Stable Diffusion (outro modelo LLM), feito pela Stabiility AI em Londres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And last &lt;t0/&gt;week, Moonshot AI and ByteDance released new reasoning models, Kimi 1.5 and 1.5-pro, which the companies claim can outperform o1 on some benchmark tests.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T163932Z" creationid="rip" creationdate="20250202T163932Z">
+        <seg>E na última semana, a Moonshot AI e ByteDance lancaram novos modelos racionais, Kimi 1.5 e 1.5-pro, qual companhias afirmaram conseguir performar melhor que o1 (OpenAI's) em alguns testes de referência. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But despite the rise in AI courses at universities, Feldgoise says it is not clear how many students are graduating with dedicated AI degrees and whether they are being taught the skills that companies need.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250207T233205Z" creationid="rip" creationdate="20250207T233205Z">
+        <seg>Mas apesar do crescimento em cursos de IA's em universidades, Feldgoise disse que não está claro como muitos estudandes estão se graduando com ênfase em bacharelados em IA e se eles estão sendo instruídos de quais habilidades as empresas realmente precisam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By 2022, the Chinese ministry of education had approved 440 universities to offer undergraduate degrees specializing in AI, according to &lt;/f3&gt;&lt;a4&gt;&lt;f5&gt;a report from the Center for Security and Emerging Technology&lt;/f5&gt;&lt;/a4&gt;&lt;f6&gt; (CSET) at Georgetown University in Washington DC.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T165449Z" creationid="rip" creationdate="20250202T164900Z">
+        <seg>até 2022, o ministério da educação chinesa tinha aprovado 440 universidades a oferecer graduações em especialização em IA, de acordo com uma reportagem vinda do Centro de Segurança e tecnologias emergentes (CSET) na universidade de Geórgia em Washington DC </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By contrast, Llama 3.1 405B, a sophisticated LLM released in July from Meta in Menlo Park, California, relies on more than 16,000 of the more advanced H100 Nvidia chips.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250208T185814Z" creationid="rip" creationdate="20250208T185814Z">
+        <seg>Por contraste, o modelo Llama 3.1 405B, um sofisticado LLM lançado em Julho desenvolvido pela Meta no Menlo Park, California, conta com mais de 16 mil dos mais avançados chips H100 da Nvidia </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chinese AI companies have complained in recent years that “graduates from these programmes were not up to the quality they were hoping for”, he says, leading some firms to partner with universities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250208T175344Z" creationid="rip" creationdate="20250207T233302Z">
+        <seg>Companhias de IA chinesas tem queixado nos recentes anos que "Os graduados vindos desses programas não tinham qualidade que eles esperado por", ele disse, algumas importantes  empreasa tem firmado parcerias com universidades. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DeepSeek draws on a variety of approaches to boost the efficiency of its models.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250208T190449Z" creationid="rip" creationdate="20250208T190449Z">
+        <seg>A DeepSeek se baseia em uma variedades de abordagens de aumento de eficiência de seus modelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DeepSeek has yet to respond to the claims.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250209T114320Z" creationid="rip" creationdate="20250209T114320Z">
+        <seg>A DeepSeek ainda não respondeu as afiamações feitas pela OpenAI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DeepSeek probably benefited from the government’s investment in AI education and talent development, which includes numerous scholarships, research grants and partnerships between academia and industry, says Marina Zhang, a science-policy researcher at the University of Technology Sydney in Australia who focuses on innovation in China.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T225303Z" creationid="rip" creationdate="20250202T212619Z">
+        <seg>A DeepSeek provavelmente beneficiada por investimentos governamentais em educação e desenvolvimento de talentos em IA, qual incluio inúmeras bolsas de estudos, subsídios de pesquisas e parcerias entre acadêmias e industrias, disse Marina Zhang, uma cientista política pesquisadora na universidade de Tecnologia de Sydney na Austrália que está focada em inovações na China.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DeepSeek’s achievements could offer a blueprint for countries that have AI ambitions but lack the financial resources and hardware to train massive LLMs using the standard Silicon Valley approach, says Yanbo Wang, a science-policy researcher who focuses on innovation at Hong Kong University.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250209T121144Z" creationid="rip" creationdate="20250209T121036Z">
+        <seg>Os feitos da DeepSeek's poderiam oferecer um plano para países que possuem ambição em IA porém sobre de carência de recursos e hardware para o treino massivo de LLMs usando padrões de abordagem do Vale do Silício, disse Yanbo, um cientista político  pesquisador que tem foco em inovações na Universidade de Hong Kong.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DeepSeek’s use of less powerful chips probably made its models cheaper to build.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250208T190118Z" creationid="rip" creationdate="20250208T190118Z">
+        <seg>A DeepSeek usou menos poder dos chips o que provavelmente fez seus modelos terem baixo custo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Even if true, it would “in no way diminish” DeepSeek’s achievement in creating R1, says Lewis Tunstall, a researcher at the open-science platform Hugging Face, based in Bern, Switzerland.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250209T114815Z" creationid="rip" creationdate="20250209T114706Z">
+        <seg>Até mesmo se isso for verdade, isso não diminuiria os feitos da DeepSeek em criar o R1, disse Lewis  Tunstall, um pesquisador da plataforma Hugging face open-science, cediada em Berna, Suiça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exact figures on DeepSeek’s workforce are hard to find, but company founder Liang Wenfeng told Chinese media that the company has recruited graduates and doctoral students from top-ranking Chinese universities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T230335Z" creationid="rip" creationdate="20250202T230335Z">
+        <seg>Números exatos da força de trabalho da DeepSeek sçao dificeis de definir, mas seu fundador Liang Wenfeng disse a mídia chinesa qie a companhia tem recrutado graduados e estudantes de doutarados do mais alto ranking de universidades chinesas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, it deploys a ‘mixture-of-experts’ architecture, a machine-learning method that trains models faster than conventional techniques, and with fewer parameters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250208T190725Z" creationid="rip" creationdate="20250208T190725Z">
+        <seg>Por examplo, suas implementações a uma "mistura de expertises" em sua arquitetura, um método de aprendizado de maquina (Machine Learning) que treina modelos mais rápidos do que tecnicas convencionais, e poucos parâmetros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, she adds, state-backed initiatives such as the National Engineering Laboratory for Deep Learning Technology and Application, which is led by tech company Baidu in Beijing, have trained thousands of AI specialists.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T225754Z" creationid="rip" creationdate="20250202T225754Z">
+        <seg>Por exemplo, ela acrescenta, iniciativas de apoio estatal tais quais os de laboratório de engenharia nacional para tecnologias de Deep Learning (aprendizado de maquina profundo) e aplicações, quais são lideradas pela companhia de tecnologia Baidu em Beijing, que tem treinado milhares de especialistas em IA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Government policies, generous funding and a pipeline of AI graduates have helped Chinese firms create advanced LLMs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T160055Z" creationid="rip" creationdate="20250202T160055Z">
+        <seg>Políticas governamentais, generosos investimentos e graduados em engenharia de prompt, tem ajudado empresas chinesas a desenvolverem avançadas LLMs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Government priority</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T163945Z" creationid="rip" creationdate="20250202T163945Z">
+        <seg>Prioridade Governamental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He co-founded the hedge fund High-Flyer almost a decade ago and established DeepSeek in 2023.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T231945Z" creationid="rip" creationdate="20250202T231945Z">
+        <seg>Ele é cofundador da empresa Hedge onde alçou grandes voos por mais de uma decada atrás e se estabeleceu na DeepSeek em 2023. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How China created AI model DeepSeek and shocked the world</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T155836Z" creationid="rip" creationdate="20250202T155836Z">
+        <seg>Como a China criou o modelo de IA DeepSeek e chocou o mundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, the company hasn’t disclosed specific details about how much hardware it uses, she adds.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250208T180657Z" creationid="rip" creationdate="20250208T180657Z">
+        <seg>Entretanto, a companhia não declarou detalhes especificos sobre quanto hardware eles usaram, ela adiciona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hugging Face is leading a project to try to recreate R1 from scratch.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250209T115922Z" creationid="rip" creationdate="20250209T115922Z">
+        <seg>Hugging Face é um projeto principal que tenta recriar o R1 do zero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a 2022 post on social-media platform WeChat, High-Flyer said that it had 10,000 of Nvidia’s older A100 chips, which DeepSeek probably has access to.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250208T190008Z" creationid="rip" creationdate="20250208T190008Z">
+        <seg>Em um post em 2002 no rede social WeChat, Hige-Flyer disse que ele tinha 10 mil chips antigos modelo A100 da Nvidia, qual provavelmente a DeepSeek teve acesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In fact, there are.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T163220Z" creationid="rip" creationdate="20250202T163220Z">
+        <seg>De fato, existe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In that year, China supplied almost half of the world’s leading AI researchers, while the United States accounted for just 18%, according to the think tank MacroPolo in Chicago, Illinois.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T212032Z" creationid="rip" creationdate="20250202T165612Z">
+        <seg>Naquele ano, a China proporcionou mais da metade da liderança de pesquisas em IA, enquanto os EUA relataram apenas 18% de acordo ao Think Tank Macropolo em Chicago, Illinois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It also uses an innovative version of another technique, called multi-head latent attention, which allows the model to store more data with less memory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250209T113828Z" creationid="rip" creationdate="20250209T113828Z">
+        <seg>Ela tambeḿ usa uma versão inovada de um outra tecnica, chamada de "Atenção latente de multiplas cabeças" qual permite o modelo armazenar mais dados com uso mais baixo de memória. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It tasked the industry with completing &lt;/f3&gt;&lt;a4&gt;&lt;f5&gt;major AI breakthroughs&lt;/f5&gt;&lt;/a4&gt;&lt;f6&gt; “such that technologies and applications achieve a world-leading level” by 2025.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T164908Z" creationid="rip" creationdate="20250202T164457Z">
+        <seg>Seu Encerramento industrial com o completar da avanço em IA  "tais tecnologias e aplicações alcaçaram um nível de liderança mundial " até 2025. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It was inevitable that a company such as DeepSeek would emerge in China, given the huge venture-capital investment in firms developing LLMs and the many people who hold doctorates in science, technology, engineering or mathematics fields, including AI, says Yunji Chen, a computer scientist working on AI chips at the Institute of Computing Technology of the Chinese Academy of Sciences in Beijing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T162931Z" creationid="rip" creationdate="20250202T162931Z">
+        <seg>Foi inevitável que uma companhia tal qual a DeepSeek emergiria da China, dado o grande investimento de capital de risco em empresas de desenvolvimento de LLMs e muitas pessoas cujas quais possuem doutorados em ciência, tecnologia, engenharia or outros campos relacionados a exatas, incluíndo IA, disse Yunji Chen, um Cientista da Computação que tem trabalhado em chips de IA no instituto de Tecnologia Computacional da acadêmia chinesa de ciencias e, Beijing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jacob Feldgoise, who studies AI talent in China at the CSET, says national policies that promote a model development ecosystem for AI will have helped companies such as DeepSeek, in terms of attracting both funding and talent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250207T232640Z" creationid="rip" creationdate="20250207T231957Z">
+        <seg>Jacob Feldgoise,  que estuda talentos de IA na China no CSET, disse que as políticas nacionais que promovem um ecosistema de desenvolvimento de modelos para IA's, ajudou de certa forma empresas como a DeepSeek, em termos de atração de financiamentos e talentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On 29 January, tech behemoth Alibaba released its most advanced LLM so far, Qwen2.5-Max, which the company says outperforms DeepSeek's V3, another LLM that the firm released in December.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T163509Z" creationid="rip" creationdate="20250202T163509Z">
+        <seg>em 29 de Janeiro, a tech Behemonth Alibaba lançou seu mais avançado LLM até o momento, Qwen2.5-max, qual a companhia disse performar melhor que o próprio DeepSeek's V3, outro LLM com firme lançamento em Dezembro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Perhaps the most impressive element of DeepSeek’s success, say scientists, is that it developed DeepSeek-R1 and Janus-Pro-7B amid the US government’s export controls, which have blocked China’s access to advanced AI computing chips since 2022.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250208T175956Z" creationid="rip" creationdate="20250208T175956Z">
+        <seg>Talvez o mais impressionante elemento do sucesso da DeepSeek, disseram cientistas, é que ela desenvolveu a DeepSeek-R1 e Janus-Pro-7B entre o controle de exportações do governo americano, qual tem bloqueado o acesso a China à chips avançados de computação para AI desde 2022.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some members of the company’s leadership team are younger than 35 years old and have grown up witnessing China’s rise as a tech superpower, says Zhang.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T231116Z" creationid="rip" creationdate="20250202T231116Z">
+        <seg>Alguns membros de liderança da empresa são jovens de menos de 35 anos e tem presenciado o crescimento da China como uma potência tecnologica, disse Zhang. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Their advance is in using a learning approach to instill ‘reasoning’ abilities into an LLM, which experiments have already reproduced, he says.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250209T115536Z" creationid="rip" creationdate="20250209T115536Z">
+        <seg>Seus avanços estão na abordagem de aprendizado a inserção de habilidades "racionais" dentro de uma LLM, qual experimentos já tem gerado resultados, disse ele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This enables the company to train models with fewer chips, says Chang Xu, a computer scientist at the University of Sydney.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250208T190848Z" creationid="rip" creationdate="20250208T190848Z">
+        <seg>Isso possibilira a companhia a treinar seus modelos com menos chips, disse Chang Xu, um Cientista da Computação da universidade de Sydney.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wenfeng, at 39, is himself a young entrepreneur and graduated in computer science from Zhejiang University, a leading institution in &lt;t0/&gt;Hangzhou.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T231604Z" creationid="rip" creationdate="20250202T231604Z">
+        <seg>Wenfeng aos 39 anos, é para ele mesmo um jovem empresário, graduado em Ciência da computação pela Universidade de Zhenjiang, um lider no instituto em Hangzhou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zhang says DeepSeek’s leadership embodies a distinctly Chinese approach to innovation, emphasizing efficiency under constraints.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250208T180453Z" creationid="rip" creationdate="20250208T180453Z">
+        <seg>Zhang disse que a liderança da DeepSeek encorpora uma distinta abordagem chinesa para inovação, enfatizando a eficiência sobre restrições.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>doi: https://doi.org/10.1038/d41586-025-00259-0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250209T121303Z" creationid="rip" creationdate="20250209T121303Z">
+        <seg>doi: https://doi.org/10.1038/d41586-025-00259-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>‘&lt;f0&gt;Efficiency under constraints’&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250208T175405Z" creationid="rip" creationdate="20250208T175405Z">
+        <seg>"Efficiência sobr erestrições"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“I expect we will learn rather quickly whether synthetic data from OpenAI is truly needed or not,” he says.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250209T120712Z" creationid="rip" creationdate="20250209T120712Z">
+        <seg>"Eu espero que possamos aprender rapidamente se de alguma forma os dados sintéticos da OpenAI são ou não realmente necessários. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“If there was no DeepSeek, there would be some other Chinese LLM that could do great things.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T163143Z" creationid="rip" creationdate="20250202T163143Z">
+        <seg>"Se não fosse a DeepSeek, alguma outra LLM chinesa poderia fazer um exelente trabalho"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“The problem we face has never been money, but the ban on high-end chips,” Wenfeng told Chinese media in July 2024.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250208T190304Z" creationid="rip" creationdate="20250208T190304Z">
+        <seg>"O problema que nos tivemos que lidar nunca foi dinheiro, mas o banimento ao acesso de chips de alta perfomance" Wenfeng falou para a mídia Chinesa em Junho de 2024.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“They are deeply motivated by a drive for self-reliance in innovation.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T231336Z" creationid="rip" creationdate="20250202T231336Z">
+        <seg>"Eles estão profundamentes motivados por uma autoconficança em inovação"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“This could invite the creation of a large army of new models,” he says.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250209T121255Z" creationid="rip" creationdate="20250209T121103Z">
+        <seg>"Isso poderia ser um convite para a criação de largos exercitos de novos modelos", Disse ele.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

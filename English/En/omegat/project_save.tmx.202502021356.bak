@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;By &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;Gemma Conroy&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt; &amp; &lt;/f3&gt;&lt;a4&gt;&lt;f5&gt;Smriti Mallapaty&lt;/f5&gt;&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T160126Z" creationid="rip" creationdate="20250202T160126Z">
+        <seg>Por Gemma Conroy &amp; Smriti Mallapaty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Chinese technology &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;start-up DeepSeek&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;has taken the tech world by storm with the release of two large language models (LLMs) that rival the performance of the dominant tools developed by US tech giants — but built with a fraction of the cost and computing power.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T161320Z" creationid="rip" creationdate="20250202T161320Z">
+        <seg>A tecnologia chinesa da startup DeepSeek tem deixado o mundo tech em maus lençois com o lançamento de dois grandes modelos de linguagem (LLMs) que rivalizam com dominantes ferramentes desenvolvidas por grandes empresas de tecnologias americanas, mas criadas com uma fração de custo e poder computacional. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Developing a pipeline of &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;‘AI talent’ became a priority&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T164847Z" creationid="rip" creationdate="20250202T164847Z">
+        <seg>Desenvolvimento de prompt de "talento IA" se tornaram uma prioridade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;If DeepSeek-R1’s performance surprised many people outside of China, researchers inside the country say the &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;start-up’s success&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt; is to be expected and fits with the government’s ambition to be a global leader in artificial intelligence (AI).&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T162434Z" creationid="rip" creationdate="20250202T162434Z">
+        <seg>Se a performance surpreendeu muitas pessoas fora da China, pesquisadores do país dissertam que o sucesso da startup já era esperado e combina com as ambições governamentais ao se tornarem lideres em Inteligência Artificial (IA) no mundo tudo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;In 2017, the Chinese government announced its intention for the country to become &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;the world leader in AI by 2030&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T164136Z" creationid="rip" creationdate="20250202T164050Z">
+        <seg>Em 2017, o governo chines anúnciou suas intenções para o país, ao se tornarem lideres mundiais em IA em 2030.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;On 20 January, the Hangzhou-based company released DeepSeek-R1, a partly open-source ‘reasoning’ model that can solve some scientific problems at a similar standard to &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;o1, OpenAI's most advanced LLM&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;, which the company, based in San Francisco, California, unveiled late last year.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T161859Z" creationid="rip" creationdate="20250202T161859Z">
+        <seg>Em 20 de Janeiro a companhia cedia na cidade de Hangzhou lançou o DeepSeek-R1, um modelo parcialmente "racional" que consegue resolver problemas científicos de maneira similar ao o1, OpenAI's mais avançado LLM, qual a companhia, cediada em São francisco, California, revelou no último ano. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And earlier this week, DeepSeek launched another model, called Janus-Pro-7B, which can generate images from text prompts much like OpenAI’s DALL-E 3 and Stable Diffusion, made by Stability AI in London.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T162222Z" creationid="rip" creationdate="20250202T162222Z">
+        <seg>E no inicio desta semana, a DeepSeek lançou outro modelo, chamado Janus-Pro-7B, qual consegue gerar imagens a partir de textos de prompt muito semelhante ao OpenAI's DALL-E 3 e Stable Diffusion (outro modelo LLM), feito pela Stabiility AI em Londres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And last &lt;t0/&gt;week, Moonshot AI and ByteDance released new reasoning models, Kimi 1.5 and 1.5-pro, which the companies claim can outperform o1 on some benchmark tests.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T163932Z" creationid="rip" creationdate="20250202T163932Z">
+        <seg>E na última semana, a Moonshot AI e ByteDance lancaram novos modelos racionais, Kimi 1.5 e 1.5-pro, qual companhias afirmaram conseguir performar melhor que o1 (OpenAI's) em alguns testes de referência. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By 2022, the Chinese ministry of education had approved 440 universities to offer undergraduate degrees specializing in AI, according to &lt;/f3&gt;&lt;a4&gt;&lt;f5&gt;a report from the Center for Security and Emerging Technology&lt;/f5&gt;&lt;/a4&gt;&lt;f6&gt; (CSET) at Georgetown University in Washington DC.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T165449Z" creationid="rip" creationdate="20250202T164900Z">
+        <seg>até 2022, o ministério da educação chinesa tinha aprovado 440 universidades a oferecer graduações em especialização em IA, de acordo com uma reportagem vinda do Centro de Segurança e tecnologias emergentes (CSET) na universidade de Geórgia em Washington DC </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Government policies, generous funding and a pipeline of AI graduates have helped Chinese firms create advanced LLMs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T160055Z" creationid="rip" creationdate="20250202T160055Z">
+        <seg>Políticas governamentais, generosos investimentos e graduados em engenharia de prompt, tem ajudado empresas chinesas a desenvolverem avançadas LLMs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Government priority</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T163945Z" creationid="rip" creationdate="20250202T163945Z">
+        <seg>Prioridade Governamental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How China created AI model DeepSeek and shocked the world</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T155836Z" creationid="rip" creationdate="20250202T155836Z">
+        <seg>Como a China criou o modelo de IA DeepSeek e chocou o mundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In fact, there are.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T163220Z" creationid="rip" creationdate="20250202T163220Z">
+        <seg>De fato, existe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In that year, China supplied almost half of the world’s leading AI researchers, while the United States accounted for just 18%, according to the think tank MacroPolo in Chicago, Illinois.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T165612Z" creationid="rip" creationdate="20250202T165612Z">
+        <seg>Naquele ano, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It tasked the industry with completing &lt;/f3&gt;&lt;a4&gt;&lt;f5&gt;major AI breakthroughs&lt;/f5&gt;&lt;/a4&gt;&lt;f6&gt; “such that technologies and applications achieve a world-leading level” by 2025.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T164908Z" creationid="rip" creationdate="20250202T164457Z">
+        <seg>Seu Encerramento industrial com o completar da avanço em IA  "tais tecnologias e aplicações alcaçaram um nível de liderança mundial " até 2025. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It was inevitable that a company such as DeepSeek would emerge in China, given the huge venture-capital investment in firms developing LLMs and the many people who hold doctorates in science, technology, engineering or mathematics fields, including AI, says Yunji Chen, a computer scientist working on AI chips at the Institute of Computing Technology of the Chinese Academy of Sciences in Beijing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T162931Z" creationid="rip" creationdate="20250202T162931Z">
+        <seg>Foi inevitável que uma companhia tal qual a DeepSeek emergiria da China, dado o grande investimento de capital de risco em empresas de desenvolvimento de LLMs e muitas pessoas cujas quais possuem doutorados em ciência, tecnologia, engenharia or outros campos relacionados a exatas, incluíndo IA, disse Yunji Chen, um Cientista da Computação que tem trabalhado em chips de IA no instituto de Tecnologia Computacional da acadêmia chinesa de ciencias e, Beijing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On 29 January, tech behemoth Alibaba released its most advanced LLM so far, Qwen2.5-Max, which the company says outperforms DeepSeek's V3, another LLM that the firm released in December.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T163509Z" creationid="rip" creationdate="20250202T163509Z">
+        <seg>em 29 de Janeiro, a tech Behemonth Alibaba lançou seu mais avançado LLM até o momento, Qwen2.5-max, qual a companhia disse performar melhor que o próprio DeepSeek's V3, outro LLM com firme lançamento em Dezembro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“If there was no DeepSeek, there would be some other Chinese LLM that could do great things.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rip" changedate="20250202T163143Z" creationid="rip" creationdate="20250202T163143Z">
+        <seg>"Se não fosse a DeepSeek, alguma outra LLM chinesa poderia fazer um exelente trabalho"</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
